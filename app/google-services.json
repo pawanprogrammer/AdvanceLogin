@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969036545097",
+    "firebase_url": "https://advancelogin-c36fe.firebaseio.com",
+    "project_id": "advancelogin-c36fe",
+    "storage_bucket": "advancelogin-c36fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969036545097:android:7bfbef56eb4b0d73",
+        "android_client_info": {
+          "package_name": "com.apkglobal.advancelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969036545097-s9jp4dummmvhdqfi9pq4fsbsrv4g2p2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.advancelogin",
+            "certificate_hash": "cec3f4b3ce9560b6a8ed377bf31d71b2af4b0988"
+          }
+        },
+        {
+          "client_id": "969036545097-g2crk0vlsocla9n7c0njiahm1obael92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvf2TKZWV487sVx_RDVgmNjDnOKB4G0Mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969036545097-g2crk0vlsocla9n7c0njiahm1obael92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
